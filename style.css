@@ -1,0 +1,129 @@
+
+.container{
+    width: 700px;
+    height: auto;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    background-color: #e9cce1;
+
+}
+
+#zero{
+    color: #042278;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.luck{
+    width: 274px;
+    background-color: #e6d6a9;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 205px;
+    border-radius: 42px;
+}
+
+#second{
+    background-color: #f2c9e2;
+    text-align: center;
+}
+
+.best{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.btn {
+background: #3498db;
+background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+background-image: -o-linear-gradient(top, #3498db, #2980b9);
+background-image: linear-gradient(to bottom, #3498db, #2980b9);
+-webkit-border-radius: 28;
+-moz-border-radius: 28;
+border-radius: 28px;
+font-family: Arial;
+color: #ffffff;
+font-size: 21px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+}
+
+.btn:hover {
+background: #3cb0fd;
+background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+text-decoration: none;
+}
+
+
+
+
+#second1{
+    font-size: 24px;
+    font-family: 'PT Serif', serif;
+
+}
+
+#second2{
+    font-size: 25px;
+    
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+#four{
+    width: 282px;
+    height: 58px;
+    background-color: #e4cde8;
+    background-image: url('https://c.tenor.com/9hRbmmv-4tkAAAAi/good-luck-best-wishes.gif');
+    padding-left: 192px;
+    padding-bottom: 199px;
+    margin-left: 118px;
+    margin-top: 0px;
+}
+
+#five1{
+    background-color: #f2c9e2;
+    text-align: center;
+    height: 100px;
+    font-size: 25px;
+    border-top: black;
+    border-top-width: 1px;
+    border-bottom: black;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+    margin-top: 100px;
+    margin-bottom: 75px;
+    margin-left: 190px;
+    margin-right: 180px;
+    padding-bottom: 30px;
+    font-family: 'Pacifico', cursive;
+}
+
+#five2{
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+    border-top: red;
+    border-bottom: red;
+    border-left: green;
+    border-right: green;
+    border-width: 1px;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-right-style: dotted;
+    margin-left: 290px;
+    margin-right: 290px;
+    margin-bottom: 100px;
+    
+}
